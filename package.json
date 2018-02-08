@@ -1,0 +1,21 @@
+{
+    "name": "something",
+    "version": "1.0.0",
+    "description": "This project is a sample application demonstrating a more fully developed realistic single page angular application.",
+    "main": "index.js",
+    "dependencies": {
+      "angular": "^1.6.4",
+      "angular-animate": "^1.6.4",
+      "angular-aria": "^1.6.4",
+      "angular-material": "^1.1.4",
+      "body-parser": "^1.13.1",
+      "express": "^4.13.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
