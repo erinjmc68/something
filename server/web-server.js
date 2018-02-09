@@ -1,6 +1,6 @@
 var express = require('express');
 var path = require('path');
-var events = require('../app/appController');
+var events = require('../app/app.controller');
 var app = express();
 var rootPath = path.normalize(__dirname + '/../');
 // var bodyParser = require('body-parser');
